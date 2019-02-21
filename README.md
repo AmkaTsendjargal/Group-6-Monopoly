@@ -1,2 +1,2 @@
-# Group-6-Monopoly
+# Monopoly
 Monopoly Game
